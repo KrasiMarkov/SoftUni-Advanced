@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Matching Brackets\bin\Debug\netcoreapp3.0\Matching Brackets.exe
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Matching Brackets\bin\Debug\netcoreapp3.0\Matching Brackets.deps.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Matching Brackets\bin\Debug\netcoreapp3.0\Matching Brackets.runtimeconfig.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Matching Brackets\bin\Debug\netcoreapp3.0\Matching Brackets.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Matching Brackets\bin\Debug\netcoreapp3.0\Matching Brackets.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Matching Brackets\bin\Debug\netcoreapp3.0\Matching Brackets.pdb
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Matching Brackets\obj\Debug\netcoreapp3.0\Matching Brackets.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Matching Brackets\obj\Debug\netcoreapp3.0\Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Matching Brackets\obj\Debug\netcoreapp3.0\Matching Brackets.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Matching Brackets\obj\Debug\netcoreapp3.0\Matching Brackets.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Matching Brackets\obj\Debug\netcoreapp3.0\Matching Brackets.pdb
