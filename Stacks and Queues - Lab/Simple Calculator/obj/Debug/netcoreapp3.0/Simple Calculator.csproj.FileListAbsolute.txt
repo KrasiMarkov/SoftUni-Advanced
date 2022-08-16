@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Simple Calculator\bin\Debug\netcoreapp3.0\Simple Calculator.exe
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Simple Calculator\bin\Debug\netcoreapp3.0\Simple Calculator.deps.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Simple Calculator\bin\Debug\netcoreapp3.0\Simple Calculator.runtimeconfig.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Simple Calculator\bin\Debug\netcoreapp3.0\Simple Calculator.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Simple Calculator\bin\Debug\netcoreapp3.0\Simple Calculator.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Simple Calculator\bin\Debug\netcoreapp3.0\Simple Calculator.pdb
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Simple Calculator\obj\Debug\netcoreapp3.0\Simple Calculator.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Simple Calculator\obj\Debug\netcoreapp3.0\Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Simple Calculator\obj\Debug\netcoreapp3.0\Simple Calculator.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Simple Calculator\obj\Debug\netcoreapp3.0\Simple Calculator.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Simple Calculator\obj\Debug\netcoreapp3.0\Simple Calculator.pdb
