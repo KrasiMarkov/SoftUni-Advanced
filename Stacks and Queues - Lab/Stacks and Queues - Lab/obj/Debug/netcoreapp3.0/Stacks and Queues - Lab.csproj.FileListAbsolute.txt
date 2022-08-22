@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.0\Stacks and Queues - Lab.exe
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.0\Stacks and Queues - Lab.deps.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.0\Stacks and Queues - Lab.runtimeconfig.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.0\Stacks and Queues - Lab.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.0\Stacks and Queues - Lab.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.0\Stacks and Queues - Lab.pdb
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.0\Stacks and Queues - Lab.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.0\Stacks and Queues - Lab.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.0\Stacks and Queues - Lab.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.0\Stacks and Queues - Lab.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.0\Stacks and Queues - Lab.pdb
