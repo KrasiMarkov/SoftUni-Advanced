@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Traffic Jam\bin\Debug\netcoreapp3.0\Traffic Jam.exe
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Traffic Jam\bin\Debug\netcoreapp3.0\Traffic Jam.deps.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Traffic Jam\bin\Debug\netcoreapp3.0\Traffic Jam.runtimeconfig.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Traffic Jam\bin\Debug\netcoreapp3.0\Traffic Jam.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Traffic Jam\bin\Debug\netcoreapp3.0\Traffic Jam.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Traffic Jam\bin\Debug\netcoreapp3.0\Traffic Jam.pdb
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Traffic Jam\obj\Debug\netcoreapp3.0\Traffic Jam.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Traffic Jam\obj\Debug\netcoreapp3.0\Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Traffic Jam\obj\Debug\netcoreapp3.0\Traffic Jam.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Traffic Jam\obj\Debug\netcoreapp3.0\Traffic Jam.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Traffic Jam\obj\Debug\netcoreapp3.0\Traffic Jam.pdb
