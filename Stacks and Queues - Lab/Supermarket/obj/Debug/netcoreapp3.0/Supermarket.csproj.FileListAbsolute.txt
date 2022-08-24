@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Supermarket\bin\Debug\netcoreapp3.0\Supermarket.exe
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Supermarket\bin\Debug\netcoreapp3.0\Supermarket.deps.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Supermarket\bin\Debug\netcoreapp3.0\Supermarket.runtimeconfig.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Supermarket\bin\Debug\netcoreapp3.0\Supermarket.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Supermarket\bin\Debug\netcoreapp3.0\Supermarket.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Supermarket\bin\Debug\netcoreapp3.0\Supermarket.pdb
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Supermarket\obj\Debug\netcoreapp3.0\Supermarket.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Supermarket\obj\Debug\netcoreapp3.0\Supermarket.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Supermarket\obj\Debug\netcoreapp3.0\Supermarket.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Supermarket\obj\Debug\netcoreapp3.0\Supermarket.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Lab\Supermarket\obj\Debug\netcoreapp3.0\Supermarket.pdb
