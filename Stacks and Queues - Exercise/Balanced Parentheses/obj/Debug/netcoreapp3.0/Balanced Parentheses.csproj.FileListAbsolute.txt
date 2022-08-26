@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Balanced Parentheses\bin\Debug\netcoreapp3.0\Balanced Parentheses.exe
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Balanced Parentheses\bin\Debug\netcoreapp3.0\Balanced Parentheses.deps.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Balanced Parentheses\bin\Debug\netcoreapp3.0\Balanced Parentheses.runtimeconfig.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Balanced Parentheses\bin\Debug\netcoreapp3.0\Balanced Parentheses.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Balanced Parentheses\bin\Debug\netcoreapp3.0\Balanced Parentheses.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Balanced Parentheses\bin\Debug\netcoreapp3.0\Balanced Parentheses.pdb
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Balanced Parentheses\obj\Debug\netcoreapp3.0\Balanced Parentheses.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Balanced Parentheses\obj\Debug\netcoreapp3.0\Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Balanced Parentheses\obj\Debug\netcoreapp3.0\Balanced Parentheses.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Balanced Parentheses\obj\Debug\netcoreapp3.0\Balanced Parentheses.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Balanced Parentheses\obj\Debug\netcoreapp3.0\Balanced Parentheses.pdb
