@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Basic Queue Operations\bin\Debug\netcoreapp3.0\Basic Queue Operations.exe
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Basic Queue Operations\bin\Debug\netcoreapp3.0\Basic Queue Operations.deps.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Basic Queue Operations\bin\Debug\netcoreapp3.0\Basic Queue Operations.runtimeconfig.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Basic Queue Operations\bin\Debug\netcoreapp3.0\Basic Queue Operations.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Basic Queue Operations\bin\Debug\netcoreapp3.0\Basic Queue Operations.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Basic Queue Operations\bin\Debug\netcoreapp3.0\Basic Queue Operations.pdb
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Basic Queue Operations\obj\Debug\netcoreapp3.0\Basic Queue Operations.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Basic Queue Operations\obj\Debug\netcoreapp3.0\Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Basic Queue Operations\obj\Debug\netcoreapp3.0\Basic Queue Operations.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Basic Queue Operations\obj\Debug\netcoreapp3.0\Basic Queue Operations.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Basic Queue Operations\obj\Debug\netcoreapp3.0\Basic Queue Operations.pdb
