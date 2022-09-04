@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fashion Boutique\bin\Debug\netcoreapp3.0\Fashion Boutique.exe
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fashion Boutique\bin\Debug\netcoreapp3.0\Fashion Boutique.deps.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fashion Boutique\bin\Debug\netcoreapp3.0\Fashion Boutique.runtimeconfig.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fashion Boutique\bin\Debug\netcoreapp3.0\Fashion Boutique.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fashion Boutique\bin\Debug\netcoreapp3.0\Fashion Boutique.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fashion Boutique\bin\Debug\netcoreapp3.0\Fashion Boutique.pdb
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fashion Boutique\obj\Debug\netcoreapp3.0\Fashion Boutique.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fashion Boutique\obj\Debug\netcoreapp3.0\Fashion Boutique.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fashion Boutique\obj\Debug\netcoreapp3.0\Fashion Boutique.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fashion Boutique\obj\Debug\netcoreapp3.0\Fashion Boutique.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fashion Boutique\obj\Debug\netcoreapp3.0\Fashion Boutique.pdb
