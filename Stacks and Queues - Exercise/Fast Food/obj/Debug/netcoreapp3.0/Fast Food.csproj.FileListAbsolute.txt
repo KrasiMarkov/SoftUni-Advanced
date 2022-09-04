@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fast Food\bin\Debug\netcoreapp3.0\Fast Food.exe
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fast Food\bin\Debug\netcoreapp3.0\Fast Food.deps.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fast Food\bin\Debug\netcoreapp3.0\Fast Food.runtimeconfig.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fast Food\bin\Debug\netcoreapp3.0\Fast Food.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fast Food\bin\Debug\netcoreapp3.0\Fast Food.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fast Food\bin\Debug\netcoreapp3.0\Fast Food.pdb
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fast Food\obj\Debug\netcoreapp3.0\Fast Food.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fast Food\obj\Debug\netcoreapp3.0\Fast Food.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fast Food\obj\Debug\netcoreapp3.0\Fast Food.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fast Food\obj\Debug\netcoreapp3.0\Fast Food.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Fast Food\obj\Debug\netcoreapp3.0\Fast Food.pdb
