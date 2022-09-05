@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Simple Text Editor\bin\Debug\netcoreapp3.0\Simple Text Editor.exe
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Simple Text Editor\bin\Debug\netcoreapp3.0\Simple Text Editor.deps.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Simple Text Editor\bin\Debug\netcoreapp3.0\Simple Text Editor.runtimeconfig.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Simple Text Editor\bin\Debug\netcoreapp3.0\Simple Text Editor.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Simple Text Editor\bin\Debug\netcoreapp3.0\Simple Text Editor.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Simple Text Editor\bin\Debug\netcoreapp3.0\Simple Text Editor.pdb
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Simple Text Editor\obj\Debug\netcoreapp3.0\Simple Text Editor.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Simple Text Editor\obj\Debug\netcoreapp3.0\Simple Text Editor.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Simple Text Editor\obj\Debug\netcoreapp3.0\Simple Text Editor.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Simple Text Editor\obj\Debug\netcoreapp3.0\Simple Text Editor.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Simple Text Editor\obj\Debug\netcoreapp3.0\Simple Text Editor.pdb
