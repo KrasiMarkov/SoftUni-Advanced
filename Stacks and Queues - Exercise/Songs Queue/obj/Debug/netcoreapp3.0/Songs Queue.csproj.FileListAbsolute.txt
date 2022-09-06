@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Songs Queue\bin\Debug\netcoreapp3.0\Songs Queue.exe
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Songs Queue\bin\Debug\netcoreapp3.0\Songs Queue.deps.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Songs Queue\bin\Debug\netcoreapp3.0\Songs Queue.runtimeconfig.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Songs Queue\bin\Debug\netcoreapp3.0\Songs Queue.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Songs Queue\bin\Debug\netcoreapp3.0\Songs Queue.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Songs Queue\bin\Debug\netcoreapp3.0\Songs Queue.pdb
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Songs Queue\obj\Debug\netcoreapp3.0\Songs Queue.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Songs Queue\obj\Debug\netcoreapp3.0\Songs Queue.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Songs Queue\obj\Debug\netcoreapp3.0\Songs Queue.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Songs Queue\obj\Debug\netcoreapp3.0\Songs Queue.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Songs Queue\obj\Debug\netcoreapp3.0\Songs Queue.pdb
