@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Truck Tour\bin\Debug\netcoreapp3.0\Truck Tour.exe
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Truck Tour\bin\Debug\netcoreapp3.0\Truck Tour.deps.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Truck Tour\bin\Debug\netcoreapp3.0\Truck Tour.runtimeconfig.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Truck Tour\bin\Debug\netcoreapp3.0\Truck Tour.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Truck Tour\bin\Debug\netcoreapp3.0\Truck Tour.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Truck Tour\bin\Debug\netcoreapp3.0\Truck Tour.pdb
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Truck Tour\obj\Debug\netcoreapp3.0\Truck Tour.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Truck Tour\obj\Debug\netcoreapp3.0\Truck Tour.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Truck Tour\obj\Debug\netcoreapp3.0\Truck Tour.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Truck Tour\obj\Debug\netcoreapp3.0\Truck Tour.dll
+C:\Users\Krasi\source\repos\Stacks and Queues - Exercise\Truck Tour\obj\Debug\netcoreapp3.0\Truck Tour.pdb
