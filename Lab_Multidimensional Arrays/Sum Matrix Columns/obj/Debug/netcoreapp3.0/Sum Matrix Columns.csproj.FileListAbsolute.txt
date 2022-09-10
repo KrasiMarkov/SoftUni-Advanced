@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp3.0\Sum Matrix Columns.exe
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp3.0\Sum Matrix Columns.deps.json
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp3.0\Sum Matrix Columns.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp3.0\Sum Matrix Columns.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp3.0\Sum Matrix Columns.dll
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp3.0\Sum Matrix Columns.pdb
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.0\Sum Matrix Columns.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.0\Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.0\Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.0\Sum Matrix Columns.dll
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp3.0\Sum Matrix Columns.pdb
