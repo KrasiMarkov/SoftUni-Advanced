@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp3.0\Symbol in Matrix.exe
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp3.0\Symbol in Matrix.deps.json
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp3.0\Symbol in Matrix.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp3.0\Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp3.0\Symbol in Matrix.dll
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp3.0\Symbol in Matrix.pdb
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.0\Symbol in Matrix.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.0\Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.0\Symbol in Matrix.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.0\Symbol in Matrix.dll
+C:\Users\Krasi\source\repos\Lab_Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp3.0\Symbol in Matrix.pdb
