@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Diagonal Difference\bin\Debug\netcoreapp3.0\Diagonal Difference.exe
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Diagonal Difference\bin\Debug\netcoreapp3.0\Diagonal Difference.deps.json
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Diagonal Difference\bin\Debug\netcoreapp3.0\Diagonal Difference.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Diagonal Difference\bin\Debug\netcoreapp3.0\Diagonal Difference.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Diagonal Difference\bin\Debug\netcoreapp3.0\Diagonal Difference.dll
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Diagonal Difference\bin\Debug\netcoreapp3.0\Diagonal Difference.pdb
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Diagonal Difference\obj\Debug\netcoreapp3.0\Diagonal Difference.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Diagonal Difference\obj\Debug\netcoreapp3.0\Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Diagonal Difference\obj\Debug\netcoreapp3.0\Diagonal Difference.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Diagonal Difference\obj\Debug\netcoreapp3.0\Diagonal Difference.dll
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Diagonal Difference\obj\Debug\netcoreapp3.0\Diagonal Difference.pdb
