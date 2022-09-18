@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Jagged Array Manipulator\bin\Debug\netcoreapp3.0\Jagged Array Manipulator.exe
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Jagged Array Manipulator\bin\Debug\netcoreapp3.0\Jagged Array Manipulator.deps.json
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Jagged Array Manipulator\bin\Debug\netcoreapp3.0\Jagged Array Manipulator.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Jagged Array Manipulator\bin\Debug\netcoreapp3.0\Jagged Array Manipulator.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Jagged Array Manipulator\bin\Debug\netcoreapp3.0\Jagged Array Manipulator.dll
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Jagged Array Manipulator\bin\Debug\netcoreapp3.0\Jagged Array Manipulator.pdb
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\netcoreapp3.0\Jagged Array Manipulator.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\netcoreapp3.0\Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\netcoreapp3.0\Jagged Array Manipulator.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\netcoreapp3.0\Jagged Array Manipulator.dll
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\netcoreapp3.0\Jagged Array Manipulator.pdb
