@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Knight Game\bin\Debug\netcoreapp3.0\Knight Game.exe
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Knight Game\bin\Debug\netcoreapp3.0\Knight Game.deps.json
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Knight Game\bin\Debug\netcoreapp3.0\Knight Game.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Knight Game\bin\Debug\netcoreapp3.0\Knight Game.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Knight Game\bin\Debug\netcoreapp3.0\Knight Game.dll
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Knight Game\bin\Debug\netcoreapp3.0\Knight Game.pdb
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Knight Game\obj\Debug\netcoreapp3.0\Knight Game.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Knight Game\obj\Debug\netcoreapp3.0\Knight Game.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Knight Game\obj\Debug\netcoreapp3.0\Knight Game.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Knight Game\obj\Debug\netcoreapp3.0\Knight Game.dll
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Knight Game\obj\Debug\netcoreapp3.0\Knight Game.pdb
