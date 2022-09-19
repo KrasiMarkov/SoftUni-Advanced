@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Maximal Sum\bin\Debug\netcoreapp3.0\Maximal Sum.exe
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Maximal Sum\bin\Debug\netcoreapp3.0\Maximal Sum.deps.json
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Maximal Sum\bin\Debug\netcoreapp3.0\Maximal Sum.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Maximal Sum\bin\Debug\netcoreapp3.0\Maximal Sum.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Maximal Sum\bin\Debug\netcoreapp3.0\Maximal Sum.dll
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Maximal Sum\bin\Debug\netcoreapp3.0\Maximal Sum.pdb
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Maximal Sum\obj\Debug\netcoreapp3.0\Maximal Sum.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Maximal Sum\obj\Debug\netcoreapp3.0\Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Maximal Sum\obj\Debug\netcoreapp3.0\Maximal Sum.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Maximal Sum\obj\Debug\netcoreapp3.0\Maximal Sum.dll
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Maximal Sum\obj\Debug\netcoreapp3.0\Maximal Sum.pdb
