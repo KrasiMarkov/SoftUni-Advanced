@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Matrix Shuffling\bin\Debug\netcoreapp3.0\Matrix Shuffling.exe
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Matrix Shuffling\bin\Debug\netcoreapp3.0\Matrix Shuffling.deps.json
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Matrix Shuffling\bin\Debug\netcoreapp3.0\Matrix Shuffling.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Matrix Shuffling\bin\Debug\netcoreapp3.0\Matrix Shuffling.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Matrix Shuffling\bin\Debug\netcoreapp3.0\Matrix Shuffling.dll
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Matrix Shuffling\bin\Debug\netcoreapp3.0\Matrix Shuffling.pdb
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Matrix Shuffling\obj\Debug\netcoreapp3.0\Matrix Shuffling.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Matrix Shuffling\obj\Debug\netcoreapp3.0\Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Matrix Shuffling\obj\Debug\netcoreapp3.0\Matrix Shuffling.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Matrix Shuffling\obj\Debug\netcoreapp3.0\Matrix Shuffling.dll
+C:\Users\Krasi\source\repos\Exercise - Multidimensional Arrays\Matrix Shuffling\obj\Debug\netcoreapp3.0\Matrix Shuffling.pdb
