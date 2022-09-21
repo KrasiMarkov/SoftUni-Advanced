@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Average Student Grades\bin\Debug\netcoreapp3.0\Average Student Grades.exe
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Average Student Grades\bin\Debug\netcoreapp3.0\Average Student Grades.deps.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Average Student Grades\bin\Debug\netcoreapp3.0\Average Student Grades.runtimeconfig.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Average Student Grades\bin\Debug\netcoreapp3.0\Average Student Grades.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Average Student Grades\bin\Debug\netcoreapp3.0\Average Student Grades.dll
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Average Student Grades\bin\Debug\netcoreapp3.0\Average Student Grades.pdb
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Average Student Grades\obj\Debug\netcoreapp3.0\Average Student Grades.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Average Student Grades\obj\Debug\netcoreapp3.0\Average Student Grades.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Average Student Grades\obj\Debug\netcoreapp3.0\Average Student Grades.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Average Student Grades\obj\Debug\netcoreapp3.0\Average Student Grades.dll
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Average Student Grades\obj\Debug\netcoreapp3.0\Average Student Grades.pdb
