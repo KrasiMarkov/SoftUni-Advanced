@@ -1,0 +1,10 @@
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Parking Lot\bin\Debug\netcoreapp3.0\Parking Lot.exe
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Parking Lot\bin\Debug\netcoreapp3.0\Parking Lot.deps.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Parking Lot\bin\Debug\netcoreapp3.0\Parking Lot.runtimeconfig.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Parking Lot\bin\Debug\netcoreapp3.0\Parking Lot.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Parking Lot\bin\Debug\netcoreapp3.0\Parking Lot.dll
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Parking Lot\bin\Debug\netcoreapp3.0\Parking Lot.pdb
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Parking Lot\obj\Debug\netcoreapp3.0\Parking Lot.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Parking Lot\obj\Debug\netcoreapp3.0\Parking Lot.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Parking Lot\obj\Debug\netcoreapp3.0\Parking Lot.dll
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Parking Lot\obj\Debug\netcoreapp3.0\Parking Lot.pdb
