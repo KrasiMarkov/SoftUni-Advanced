@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Record Unique Names\bin\Debug\netcoreapp3.0\Record Unique Names.exe
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Record Unique Names\bin\Debug\netcoreapp3.0\Record Unique Names.deps.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Record Unique Names\bin\Debug\netcoreapp3.0\Record Unique Names.runtimeconfig.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Record Unique Names\bin\Debug\netcoreapp3.0\Record Unique Names.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Record Unique Names\bin\Debug\netcoreapp3.0\Record Unique Names.dll
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Record Unique Names\bin\Debug\netcoreapp3.0\Record Unique Names.pdb
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Record Unique Names\obj\Debug\netcoreapp3.0\Record Unique Names.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Record Unique Names\obj\Debug\netcoreapp3.0\Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Record Unique Names\obj\Debug\netcoreapp3.0\Record Unique Names.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Record Unique Names\obj\Debug\netcoreapp3.0\Record Unique Names.dll
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\Record Unique Names\obj\Debug\netcoreapp3.0\Record Unique Names.pdb
