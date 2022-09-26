@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\SoftUni Party\bin\Debug\netcoreapp3.0\SoftUni Party.exe
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\SoftUni Party\bin\Debug\netcoreapp3.0\SoftUni Party.deps.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\SoftUni Party\bin\Debug\netcoreapp3.0\SoftUni Party.runtimeconfig.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\SoftUni Party\bin\Debug\netcoreapp3.0\SoftUni Party.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\SoftUni Party\bin\Debug\netcoreapp3.0\SoftUni Party.dll
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\SoftUni Party\bin\Debug\netcoreapp3.0\SoftUni Party.pdb
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\SoftUni Party\obj\Debug\netcoreapp3.0\SoftUni Party.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\SoftUni Party\obj\Debug\netcoreapp3.0\SoftUni Party.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\SoftUni Party\obj\Debug\netcoreapp3.0\SoftUni Party.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\SoftUni Party\obj\Debug\netcoreapp3.0\SoftUni Party.dll
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Lab\SoftUni Party\obj\Debug\netcoreapp3.0\SoftUni Party.pdb
