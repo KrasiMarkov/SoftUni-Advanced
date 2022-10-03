@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Periodic Table\bin\Debug\netcoreapp3.0\Periodic Table.exe
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Periodic Table\bin\Debug\netcoreapp3.0\Periodic Table.deps.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Periodic Table\bin\Debug\netcoreapp3.0\Periodic Table.runtimeconfig.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Periodic Table\bin\Debug\netcoreapp3.0\Periodic Table.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Periodic Table\bin\Debug\netcoreapp3.0\Periodic Table.dll
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Periodic Table\bin\Debug\netcoreapp3.0\Periodic Table.pdb
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Periodic Table\obj\Debug\netcoreapp3.0\Periodic Table.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Periodic Table\obj\Debug\netcoreapp3.0\Periodic Table.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Periodic Table\obj\Debug\netcoreapp3.0\Periodic Table.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Periodic Table\obj\Debug\netcoreapp3.0\Periodic Table.dll
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Periodic Table\obj\Debug\netcoreapp3.0\Periodic Table.pdb
