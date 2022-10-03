@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Even Times\bin\Debug\netcoreapp3.0\Even Times.exe
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Even Times\bin\Debug\netcoreapp3.0\Even Times.deps.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Even Times\bin\Debug\netcoreapp3.0\Even Times.runtimeconfig.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Even Times\bin\Debug\netcoreapp3.0\Even Times.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Even Times\bin\Debug\netcoreapp3.0\Even Times.dll
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Even Times\bin\Debug\netcoreapp3.0\Even Times.pdb
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Even Times\obj\Debug\netcoreapp3.0\Even Times.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Even Times\obj\Debug\netcoreapp3.0\Even Times.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Even Times\obj\Debug\netcoreapp3.0\Even Times.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Even Times\obj\Debug\netcoreapp3.0\Even Times.dll
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Even Times\obj\Debug\netcoreapp3.0\Even Times.pdb
