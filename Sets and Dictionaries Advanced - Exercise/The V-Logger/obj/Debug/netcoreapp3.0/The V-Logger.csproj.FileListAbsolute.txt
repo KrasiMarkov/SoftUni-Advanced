@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\The V-Logger\bin\Debug\netcoreapp3.0\The V-Logger.exe
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\The V-Logger\bin\Debug\netcoreapp3.0\The V-Logger.deps.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\The V-Logger\bin\Debug\netcoreapp3.0\The V-Logger.runtimeconfig.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\The V-Logger\bin\Debug\netcoreapp3.0\The V-Logger.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\The V-Logger\bin\Debug\netcoreapp3.0\The V-Logger.dll
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\The V-Logger\bin\Debug\netcoreapp3.0\The V-Logger.pdb
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\The V-Logger\obj\Debug\netcoreapp3.0\The V-Logger.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\The V-Logger\obj\Debug\netcoreapp3.0\The V-Logger.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\The V-Logger\obj\Debug\netcoreapp3.0\The V-Logger.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\The V-Logger\obj\Debug\netcoreapp3.0\The V-Logger.dll
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\The V-Logger\obj\Debug\netcoreapp3.0\The V-Logger.pdb
