@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.exe
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.deps.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.runtimeconfig.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.dll
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.pdb
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.dll
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.pdb
