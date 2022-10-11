@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Unique Usernames\bin\Debug\netcoreapp3.0\Unique Usernames.exe
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Unique Usernames\bin\Debug\netcoreapp3.0\Unique Usernames.deps.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Unique Usernames\bin\Debug\netcoreapp3.0\Unique Usernames.runtimeconfig.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Unique Usernames\bin\Debug\netcoreapp3.0\Unique Usernames.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Unique Usernames\bin\Debug\netcoreapp3.0\Unique Usernames.dll
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Unique Usernames\bin\Debug\netcoreapp3.0\Unique Usernames.pdb
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Unique Usernames\obj\Debug\netcoreapp3.0\Unique Usernames.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Unique Usernames\obj\Debug\netcoreapp3.0\Unique Usernames.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Unique Usernames\obj\Debug\netcoreapp3.0\Unique Usernames.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Unique Usernames\obj\Debug\netcoreapp3.0\Unique Usernames.dll
+C:\Users\Krasi\source\repos\Sets and Dictionaries Advanced - Exercise\Unique Usernames\obj\Debug\netcoreapp3.0\Unique Usernames.pdb
