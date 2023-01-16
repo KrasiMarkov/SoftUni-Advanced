@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Folder Size\bin\Debug\netcoreapp3.0\Folder Size.exe
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Folder Size\bin\Debug\netcoreapp3.0\Folder Size.deps.json
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Folder Size\bin\Debug\netcoreapp3.0\Folder Size.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Folder Size\bin\Debug\netcoreapp3.0\Folder Size.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Folder Size\bin\Debug\netcoreapp3.0\Folder Size.dll
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Folder Size\bin\Debug\netcoreapp3.0\Folder Size.pdb
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Folder Size\obj\Debug\netcoreapp3.0\Folder Size.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Folder Size\obj\Debug\netcoreapp3.0\Folder Size.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Folder Size\obj\Debug\netcoreapp3.0\Folder Size.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Folder Size\obj\Debug\netcoreapp3.0\Folder Size.dll
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Folder Size\obj\Debug\netcoreapp3.0\Folder Size.pdb
