@@ -1,0 +1,13 @@
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Merge Files\bin\Debug\netcoreapp3.0\InputOne.txt
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Merge Files\bin\Debug\netcoreapp3.0\InputTwo.txt
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Merge Files\bin\Debug\netcoreapp3.0\Merge Files.exe
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Merge Files\bin\Debug\netcoreapp3.0\Merge Files.deps.json
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Merge Files\bin\Debug\netcoreapp3.0\Merge Files.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Merge Files\bin\Debug\netcoreapp3.0\Merge Files.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Merge Files\bin\Debug\netcoreapp3.0\Merge Files.dll
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Merge Files\bin\Debug\netcoreapp3.0\Merge Files.pdb
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Merge Files\obj\Debug\netcoreapp3.0\Merge Files.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Merge Files\obj\Debug\netcoreapp3.0\Merge Files.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Merge Files\obj\Debug\netcoreapp3.0\Merge Files.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Merge Files\obj\Debug\netcoreapp3.0\Merge Files.dll
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Merge Files\obj\Debug\netcoreapp3.0\Merge Files.pdb
