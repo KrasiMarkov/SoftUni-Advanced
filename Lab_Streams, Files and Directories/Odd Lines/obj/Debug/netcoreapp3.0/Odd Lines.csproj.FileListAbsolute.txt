@@ -1,0 +1,12 @@
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Odd Lines\bin\Debug\netcoreapp3.0\Odd Lines.exe
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Odd Lines\bin\Debug\netcoreapp3.0\Odd Lines.deps.json
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Odd Lines\bin\Debug\netcoreapp3.0\Odd Lines.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Odd Lines\bin\Debug\netcoreapp3.0\Odd Lines.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Odd Lines\bin\Debug\netcoreapp3.0\Odd Lines.dll
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Odd Lines\bin\Debug\netcoreapp3.0\Odd Lines.pdb
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Odd Lines\obj\Debug\netcoreapp3.0\Odd Lines.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Odd Lines\obj\Debug\netcoreapp3.0\Odd Lines.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Odd Lines\obj\Debug\netcoreapp3.0\Odd Lines.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Odd Lines\obj\Debug\netcoreapp3.0\Odd Lines.dll
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Odd Lines\obj\Debug\netcoreapp3.0\Odd Lines.pdb
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Odd Lines\bin\Debug\netcoreapp3.0\TextOne.txt
