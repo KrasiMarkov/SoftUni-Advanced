@@ -1,0 +1,12 @@
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Slice a File\bin\Debug\netcoreapp3.0\InputPart.txt
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Slice a File\bin\Debug\netcoreapp3.0\Slice a File.exe
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Slice a File\bin\Debug\netcoreapp3.0\Slice a File.deps.json
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Slice a File\bin\Debug\netcoreapp3.0\Slice a File.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Slice a File\bin\Debug\netcoreapp3.0\Slice a File.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Slice a File\bin\Debug\netcoreapp3.0\Slice a File.dll
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Slice a File\bin\Debug\netcoreapp3.0\Slice a File.pdb
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Slice a File\obj\Debug\netcoreapp3.0\Slice a File.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Slice a File\obj\Debug\netcoreapp3.0\Slice a File.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Slice a File\obj\Debug\netcoreapp3.0\Slice a File.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Slice a File\obj\Debug\netcoreapp3.0\Slice a File.dll
+C:\Users\Krasi\source\repos\Lab_Streams, Files and Directories\Slice a File\obj\Debug\netcoreapp3.0\Slice a File.pdb
