@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Copy Binary File\bin\Debug\netcoreapp3.0\Copy Binary File.exe
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Copy Binary File\bin\Debug\netcoreapp3.0\Copy Binary File.deps.json
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Copy Binary File\bin\Debug\netcoreapp3.0\Copy Binary File.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Copy Binary File\bin\Debug\netcoreapp3.0\Copy Binary File.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Copy Binary File\bin\Debug\netcoreapp3.0\Copy Binary File.dll
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Copy Binary File\bin\Debug\netcoreapp3.0\Copy Binary File.pdb
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Copy Binary File\obj\Debug\netcoreapp3.0\Copy Binary File.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Copy Binary File\obj\Debug\netcoreapp3.0\Copy Binary File.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Copy Binary File\obj\Debug\netcoreapp3.0\Copy Binary File.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Copy Binary File\obj\Debug\netcoreapp3.0\Copy Binary File.dll
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Copy Binary File\obj\Debug\netcoreapp3.0\Copy Binary File.pdb
