@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Directory Traversal\bin\Debug\netcoreapp3.0\Directory Traversal.exe
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Directory Traversal\bin\Debug\netcoreapp3.0\Directory Traversal.deps.json
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Directory Traversal\bin\Debug\netcoreapp3.0\Directory Traversal.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Directory Traversal\bin\Debug\netcoreapp3.0\Directory Traversal.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Directory Traversal\bin\Debug\netcoreapp3.0\Directory Traversal.dll
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Directory Traversal\bin\Debug\netcoreapp3.0\Directory Traversal.pdb
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Directory Traversal\obj\Debug\netcoreapp3.0\Directory Traversal.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Directory Traversal\obj\Debug\netcoreapp3.0\Directory Traversal.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Directory Traversal\obj\Debug\netcoreapp3.0\Directory Traversal.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Directory Traversal\obj\Debug\netcoreapp3.0\Directory Traversal.dll
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Directory Traversal\obj\Debug\netcoreapp3.0\Directory Traversal.pdb
