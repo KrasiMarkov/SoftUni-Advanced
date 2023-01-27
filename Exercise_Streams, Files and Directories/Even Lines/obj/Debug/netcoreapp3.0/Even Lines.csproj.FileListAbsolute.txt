@@ -1,0 +1,12 @@
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Even Lines\bin\Debug\netcoreapp3.0\TextFile1.txt
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Even Lines\bin\Debug\netcoreapp3.0\Even Lines.exe
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Even Lines\bin\Debug\netcoreapp3.0\Even Lines.deps.json
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Even Lines\bin\Debug\netcoreapp3.0\Even Lines.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Even Lines\bin\Debug\netcoreapp3.0\Even Lines.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Even Lines\bin\Debug\netcoreapp3.0\Even Lines.dll
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Even Lines\bin\Debug\netcoreapp3.0\Even Lines.pdb
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Even Lines\obj\Debug\netcoreapp3.0\Even Lines.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Even Lines\obj\Debug\netcoreapp3.0\Even Lines.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Even Lines\obj\Debug\netcoreapp3.0\Even Lines.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Even Lines\obj\Debug\netcoreapp3.0\Even Lines.dll
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Even Lines\obj\Debug\netcoreapp3.0\Even Lines.pdb
