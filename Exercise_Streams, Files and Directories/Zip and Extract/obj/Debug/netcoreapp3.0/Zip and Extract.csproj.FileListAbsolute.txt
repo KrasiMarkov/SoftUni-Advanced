@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Zip and Extract\bin\Debug\netcoreapp3.0\Zip and Extract.exe
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Zip and Extract\bin\Debug\netcoreapp3.0\Zip and Extract.deps.json
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Zip and Extract\bin\Debug\netcoreapp3.0\Zip and Extract.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Zip and Extract\bin\Debug\netcoreapp3.0\Zip and Extract.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Zip and Extract\bin\Debug\netcoreapp3.0\Zip and Extract.dll
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Zip and Extract\bin\Debug\netcoreapp3.0\Zip and Extract.pdb
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Zip and Extract\obj\Debug\netcoreapp3.0\Zip and Extract.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Zip and Extract\obj\Debug\netcoreapp3.0\Zip and Extract.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Zip and Extract\obj\Debug\netcoreapp3.0\Zip and Extract.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Zip and Extract\obj\Debug\netcoreapp3.0\Zip and Extract.dll
+C:\Users\Krasi\source\repos\Exercise_Streams, Files and Directories\Zip and Extract\obj\Debug\netcoreapp3.0\Zip and Extract.pdb
