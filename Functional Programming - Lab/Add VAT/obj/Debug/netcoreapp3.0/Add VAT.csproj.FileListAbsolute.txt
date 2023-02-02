@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Add VAT\bin\Debug\netcoreapp3.0\Add VAT.exe
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Add VAT\bin\Debug\netcoreapp3.0\Add VAT.deps.json
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Add VAT\bin\Debug\netcoreapp3.0\Add VAT.runtimeconfig.json
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Add VAT\bin\Debug\netcoreapp3.0\Add VAT.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Add VAT\bin\Debug\netcoreapp3.0\Add VAT.dll
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Add VAT\bin\Debug\netcoreapp3.0\Add VAT.pdb
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Add VAT\obj\Debug\netcoreapp3.0\Add VAT.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Add VAT\obj\Debug\netcoreapp3.0\Add VAT.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Add VAT\obj\Debug\netcoreapp3.0\Add VAT.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Add VAT\obj\Debug\netcoreapp3.0\Add VAT.dll
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Add VAT\obj\Debug\netcoreapp3.0\Add VAT.pdb
