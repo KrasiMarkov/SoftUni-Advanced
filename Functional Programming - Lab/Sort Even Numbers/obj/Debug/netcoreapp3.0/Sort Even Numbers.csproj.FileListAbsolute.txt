@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Sort Even Numbers\bin\Debug\netcoreapp3.0\Sort Even Numbers.exe
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Sort Even Numbers\bin\Debug\netcoreapp3.0\Sort Even Numbers.deps.json
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Sort Even Numbers\bin\Debug\netcoreapp3.0\Sort Even Numbers.runtimeconfig.json
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Sort Even Numbers\bin\Debug\netcoreapp3.0\Sort Even Numbers.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Sort Even Numbers\bin\Debug\netcoreapp3.0\Sort Even Numbers.dll
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Sort Even Numbers\bin\Debug\netcoreapp3.0\Sort Even Numbers.pdb
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Sort Even Numbers\obj\Debug\netcoreapp3.0\Sort Even Numbers.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Sort Even Numbers\obj\Debug\netcoreapp3.0\Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Sort Even Numbers\obj\Debug\netcoreapp3.0\Sort Even Numbers.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Sort Even Numbers\obj\Debug\netcoreapp3.0\Sort Even Numbers.dll
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Sort Even Numbers\obj\Debug\netcoreapp3.0\Sort Even Numbers.pdb
