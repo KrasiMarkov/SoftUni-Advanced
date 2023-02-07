@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Filter by Age\bin\Debug\netcoreapp3.0\Filter by Age.exe
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Filter by Age\bin\Debug\netcoreapp3.0\Filter by Age.deps.json
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Filter by Age\bin\Debug\netcoreapp3.0\Filter by Age.runtimeconfig.json
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Filter by Age\bin\Debug\netcoreapp3.0\Filter by Age.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Filter by Age\bin\Debug\netcoreapp3.0\Filter by Age.dll
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Filter by Age\bin\Debug\netcoreapp3.0\Filter by Age.pdb
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Filter by Age\obj\Debug\netcoreapp3.0\Filter by Age.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Filter by Age\obj\Debug\netcoreapp3.0\Filter by Age.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Filter by Age\obj\Debug\netcoreapp3.0\Filter by Age.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Filter by Age\obj\Debug\netcoreapp3.0\Filter by Age.dll
+C:\Users\Krasi\source\repos\Functional Programming - Lab\Filter by Age\obj\Debug\netcoreapp3.0\Filter by Age.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Filter by Age/1.0.0": {
+        "runtime": {
+          "Filter by Age.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Filter by Age/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
