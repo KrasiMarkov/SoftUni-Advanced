@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Action Print\bin\Debug\netcoreapp3.0\Action Print.exe
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Action Print\bin\Debug\netcoreapp3.0\Action Print.deps.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Action Print\bin\Debug\netcoreapp3.0\Action Print.runtimeconfig.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Action Print\bin\Debug\netcoreapp3.0\Action Print.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Action Print\bin\Debug\netcoreapp3.0\Action Print.dll
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Action Print\bin\Debug\netcoreapp3.0\Action Print.pdb
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Action Print\obj\Debug\netcoreapp3.0\Action Print.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Action Print\obj\Debug\netcoreapp3.0\Action Print.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Action Print\obj\Debug\netcoreapp3.0\Action Print.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Action Print\obj\Debug\netcoreapp3.0\Action Print.dll
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Action Print\obj\Debug\netcoreapp3.0\Action Print.pdb
