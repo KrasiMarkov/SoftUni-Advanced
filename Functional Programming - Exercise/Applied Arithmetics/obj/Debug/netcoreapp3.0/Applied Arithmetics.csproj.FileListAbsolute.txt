@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Applied Arithmetics\bin\Debug\netcoreapp3.0\Applied Arithmetics.exe
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Applied Arithmetics\bin\Debug\netcoreapp3.0\Applied Arithmetics.deps.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Applied Arithmetics\bin\Debug\netcoreapp3.0\Applied Arithmetics.runtimeconfig.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Applied Arithmetics\bin\Debug\netcoreapp3.0\Applied Arithmetics.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Applied Arithmetics\bin\Debug\netcoreapp3.0\Applied Arithmetics.dll
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Applied Arithmetics\bin\Debug\netcoreapp3.0\Applied Arithmetics.pdb
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Applied Arithmetics\obj\Debug\netcoreapp3.0\Applied Arithmetics.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Applied Arithmetics\obj\Debug\netcoreapp3.0\Applied Arithmetics.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Applied Arithmetics\obj\Debug\netcoreapp3.0\Applied Arithmetics.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Applied Arithmetics\obj\Debug\netcoreapp3.0\Applied Arithmetics.dll
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Applied Arithmetics\obj\Debug\netcoreapp3.0\Applied Arithmetics.pdb
