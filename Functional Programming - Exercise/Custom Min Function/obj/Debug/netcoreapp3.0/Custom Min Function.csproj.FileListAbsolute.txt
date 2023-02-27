@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Custom Min Function\bin\Debug\netcoreapp3.0\Custom Min Function.exe
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Custom Min Function\bin\Debug\netcoreapp3.0\Custom Min Function.deps.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Custom Min Function\bin\Debug\netcoreapp3.0\Custom Min Function.runtimeconfig.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Custom Min Function\bin\Debug\netcoreapp3.0\Custom Min Function.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Custom Min Function\bin\Debug\netcoreapp3.0\Custom Min Function.dll
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Custom Min Function\bin\Debug\netcoreapp3.0\Custom Min Function.pdb
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Custom Min Function\obj\Debug\netcoreapp3.0\Custom Min Function.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Custom Min Function\obj\Debug\netcoreapp3.0\Custom Min Function.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Custom Min Function\obj\Debug\netcoreapp3.0\Custom Min Function.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Custom Min Function\obj\Debug\netcoreapp3.0\Custom Min Function.dll
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Custom Min Function\obj\Debug\netcoreapp3.0\Custom Min Function.pdb
