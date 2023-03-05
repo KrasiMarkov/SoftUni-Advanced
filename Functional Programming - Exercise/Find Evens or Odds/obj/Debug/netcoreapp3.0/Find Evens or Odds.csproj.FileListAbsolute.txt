@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Find Evens or Odds\bin\Debug\netcoreapp3.0\Find Evens or Odds.exe
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Find Evens or Odds\bin\Debug\netcoreapp3.0\Find Evens or Odds.deps.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Find Evens or Odds\bin\Debug\netcoreapp3.0\Find Evens or Odds.runtimeconfig.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Find Evens or Odds\bin\Debug\netcoreapp3.0\Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Find Evens or Odds\bin\Debug\netcoreapp3.0\Find Evens or Odds.dll
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Find Evens or Odds\bin\Debug\netcoreapp3.0\Find Evens or Odds.pdb
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Find Evens or Odds\obj\Debug\netcoreapp3.0\Find Evens or Odds.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Find Evens or Odds\obj\Debug\netcoreapp3.0\Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Find Evens or Odds\obj\Debug\netcoreapp3.0\Find Evens or Odds.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Find Evens or Odds\obj\Debug\netcoreapp3.0\Find Evens or Odds.dll
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Find Evens or Odds\obj\Debug\netcoreapp3.0\Find Evens or Odds.pdb
