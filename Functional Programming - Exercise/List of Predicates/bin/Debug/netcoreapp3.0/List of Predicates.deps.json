@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "List of Predicates/1.0.0": {
+        "runtime": {
+          "List of Predicates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "List of Predicates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

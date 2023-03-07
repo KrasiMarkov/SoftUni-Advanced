@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\List of Predicates\bin\Debug\netcoreapp3.0\List of Predicates.exe
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\List of Predicates\bin\Debug\netcoreapp3.0\List of Predicates.deps.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\List of Predicates\bin\Debug\netcoreapp3.0\List of Predicates.runtimeconfig.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\List of Predicates\bin\Debug\netcoreapp3.0\List of Predicates.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\List of Predicates\bin\Debug\netcoreapp3.0\List of Predicates.dll
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\List of Predicates\bin\Debug\netcoreapp3.0\List of Predicates.pdb
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\List of Predicates\obj\Debug\netcoreapp3.0\List of Predicates.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\List of Predicates\obj\Debug\netcoreapp3.0\List of Predicates.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\List of Predicates\obj\Debug\netcoreapp3.0\List of Predicates.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\List of Predicates\obj\Debug\netcoreapp3.0\List of Predicates.dll
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\List of Predicates\obj\Debug\netcoreapp3.0\List of Predicates.pdb
