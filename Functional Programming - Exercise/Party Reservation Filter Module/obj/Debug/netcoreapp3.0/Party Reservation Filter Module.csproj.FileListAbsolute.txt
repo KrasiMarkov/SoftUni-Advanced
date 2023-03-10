@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Party Reservation Filter Module\bin\Debug\netcoreapp3.0\Party Reservation Filter Module.exe
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Party Reservation Filter Module\bin\Debug\netcoreapp3.0\Party Reservation Filter Module.deps.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Party Reservation Filter Module\bin\Debug\netcoreapp3.0\Party Reservation Filter Module.runtimeconfig.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Party Reservation Filter Module\bin\Debug\netcoreapp3.0\Party Reservation Filter Module.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Party Reservation Filter Module\bin\Debug\netcoreapp3.0\Party Reservation Filter Module.dll
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Party Reservation Filter Module\bin\Debug\netcoreapp3.0\Party Reservation Filter Module.pdb
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Party Reservation Filter Module\obj\Debug\netcoreapp3.0\Party Reservation Filter Module.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Party Reservation Filter Module\obj\Debug\netcoreapp3.0\Party Reservation Filter Module.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Party Reservation Filter Module\obj\Debug\netcoreapp3.0\Party Reservation Filter Module.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Party Reservation Filter Module\obj\Debug\netcoreapp3.0\Party Reservation Filter Module.dll
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Party Reservation Filter Module\obj\Debug\netcoreapp3.0\Party Reservation Filter Module.pdb
