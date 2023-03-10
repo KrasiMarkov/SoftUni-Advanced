@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate for Names\bin\Debug\netcoreapp3.0\Predicate for Names.exe
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate for Names\bin\Debug\netcoreapp3.0\Predicate for Names.deps.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate for Names\bin\Debug\netcoreapp3.0\Predicate for Names.runtimeconfig.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate for Names\bin\Debug\netcoreapp3.0\Predicate for Names.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate for Names\bin\Debug\netcoreapp3.0\Predicate for Names.dll
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate for Names\bin\Debug\netcoreapp3.0\Predicate for Names.pdb
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate for Names\obj\Debug\netcoreapp3.0\Predicate for Names.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate for Names\obj\Debug\netcoreapp3.0\Predicate for Names.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate for Names\obj\Debug\netcoreapp3.0\Predicate for Names.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate for Names\obj\Debug\netcoreapp3.0\Predicate for Names.dll
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate for Names\obj\Debug\netcoreapp3.0\Predicate for Names.pdb
