@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate Party!\bin\Debug\netcoreapp3.0\Predicate Party!.exe
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate Party!\bin\Debug\netcoreapp3.0\Predicate Party!.deps.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate Party!\bin\Debug\netcoreapp3.0\Predicate Party!.runtimeconfig.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate Party!\bin\Debug\netcoreapp3.0\Predicate Party!.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate Party!\bin\Debug\netcoreapp3.0\Predicate Party!.dll
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate Party!\bin\Debug\netcoreapp3.0\Predicate Party!.pdb
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate Party!\obj\Debug\netcoreapp3.0\Predicate Party!.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate Party!\obj\Debug\netcoreapp3.0\Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate Party!\obj\Debug\netcoreapp3.0\Predicate Party!.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate Party!\obj\Debug\netcoreapp3.0\Predicate Party!.dll
+C:\Users\Krasi\source\repos\Functional Programming - Exercise\Predicate Party!\obj\Debug\netcoreapp3.0\Predicate Party!.pdb
